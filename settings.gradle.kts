@@ -21,8 +21,8 @@ hytale {
     }
 
     manifest {
-        Group = "HytaleModding"
-        Name = "ExamplePlugin"
-        Main = "dev.hytalemodding.ExamplePlugin"
+        Group = "TechTastic"
+        Name = "Instrumental"
+        Main = "io.github.techtastic.instrumental.Instrumental"
     }
 }
